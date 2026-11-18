@@ -21,7 +21,7 @@ This is **Week 3, Project Module 2 (W3-PM2): Password Cracking with Networkwalks
 
 I did this on 17 November 2026, entirely in a web browser, with no installation and no terminal.
 
-This module's target file is the same `My Locked PDF1.pdf` that caused a mix-up in my write-up for **[W3-PM1 (Password Cracking with JTR)]([../NETWORK-WALKS-W3-PM1-Password-Cracking-with-JTR](https://github.com/philip-ajik/NETWORK-WALKS-W3-PM1---Week3---Project-Module1---Password-Cracking-with-JTR-v1))**: I had mistakenly hashed this exact file while working on that other lab, thinking it was PM1's target. Running it properly here, as its own task, confirms that mix-up for what it was — this file belongs to PM2, not PM1.
+This module's target file is the same `My Locked PDF1.pdf` that caused a mix-up in my write-up for **[W3-PM1 (Password Cracking with JTR)](https://github.com/philip-ajik/NETWORK-WALKS-W3-PM1---Week3---Project-Module1---Password-Cracking-with-JTR-v1)**: I had mistakenly hashed this exact file while working on that other lab, thinking it was PM1's target. Running it properly here, as its own task, confirms that mix-up for what it was — this file belongs to PM2, not PM1.
 
 | 🔎 Item | ✅ Result |
 | ------- | --------- |
